@@ -10,7 +10,7 @@ function App() {
       <p className='w-[80%] mx-auto text-sm md:text-base text-blue-900'>Discover what the stars have in store for you today</p>
      </div>
      <div className='px-4 mx-auto mt-16 w-full md:w-[80%] grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-2'>
-      <ZodiacSign zodiacSign={""} ZodiacIcon={Mountain} />
+      <ZodiacSign zodiacSign={"Beier"} ZodiacIcon={Mountain} />
      </div>
     </div>
   )
