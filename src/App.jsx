@@ -62,7 +62,7 @@ function App() {
   };
 
   return (
-    <div className="bg-blue-200 w-full min-h-[100vh] pb-16 pt-10 lg:pt-16">
+    <div className="bg-blue-100 w-full min-h-[100vh] pb-16 pt-10 lg:pt-16">
       <div className="text-center">
         <h1 className="text-3xl md:text-4xl font-extrabold mb-4 lg:mb-6 text-blue-800">
           Daily Horoscope 😊
